@@ -14,3 +14,4 @@ Welcome to Cursor. Here are the basics:
 Try using Cursor to generate edits, spot bugs, find code, learn about docs, and explain code.
 
 If you run into any trouble or have any feedback, feel free to reach out at hi@cursor.so.
+
